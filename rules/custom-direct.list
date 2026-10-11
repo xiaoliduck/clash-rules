@@ -1,5 +1,0 @@
-# NAME: Custom Direct
-# 强制直连。优先级高于 custom-proxy 和媒体/AI 规则。
-# 格式示例（去掉行首 # 生效）：
-# DOMAIN-SUFFIX,example.cn
-# DOMAIN,internal.company.com
