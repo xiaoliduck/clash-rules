@@ -1,0 +1,6 @@
+# NAME: Custom Proxy
+# 强制走 🔰国外流量。改完 git push 即可。
+# 格式示例（去掉行首 # 生效）：
+# DOMAIN-SUFFIX,example.com
+# DOMAIN-KEYWORD,openai
+# IP-CIDR,1.1.1.1/32,no-resolve

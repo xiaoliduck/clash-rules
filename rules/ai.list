@@ -1,0 +1,35 @@
+# NAME: AI
+# 自己改：后面加域名直接 push，FlClash 会按 interval 拉取
+# 格式：DOMAIN / DOMAIN-SUFFIX / DOMAIN-KEYWORD / IP-CIDR，不要写策略名
+
+# Grok / xAI
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-KEYWORD,grok
+
+# Cursor
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,anysphere.co
+
+# Anthropic / Claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+
+# OpenAI extras（完整 OpenAI 列表见 openai.list）
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+
+# 其他常用 AI
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,together.ai
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
