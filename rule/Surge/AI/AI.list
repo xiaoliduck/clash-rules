@@ -17,6 +17,25 @@ DOMAIN-SUFFIX,anysphere.co
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN,anthropic.com.cdn.cloudflare.net
+DOMAIN,anthropic.auth0.com
+DOMAIN,anthropic-com.ghost.io
+IP-CIDR,160.79.104.0/21,no-resolve
+IP-CIDR6,2607:6bc0::/32,no-resolve
+IP-ASN,399358,no-resolve
+# 共享服务，确认连接日志需要后再取消注释
+# DOMAIN-SUFFIX,sentry.io
+# DOMAIN-SUFFIX,statsigapi.net
+# DOMAIN,browser-intake-us5-datadoghq.com
+# DOMAIN-SUFFIX,sift.com
+# DOMAIN-SUFFIX,siftscience.com
+# DOMAIN-SUFFIX,intercom.io
+# DOMAIN-SUFFIX,intercomcdn.com
+# DOMAIN,cdn.usefathom.com
 
 # OpenAI extras（完整 OpenAI 列表见 openai.list）
 DOMAIN-SUFFIX,chatgpt.com
