@@ -8,6 +8,8 @@
 # IP-CIDR6: 1
 # USER-AGENT: 7
 # TOTAL: 190
+# 网页播放鉴权，不进 YouTube 组时常见：广告能播、正片转圈
+DOMAIN,jnn-pa.googleapis.com
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
