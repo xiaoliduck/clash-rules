@@ -1,0 +1,14 @@
+# NAME: ApplePush
+# iMessage / 信息 / APNs 直连，不要写策略名
+
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,ess.apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,me.com
+DOMAIN,identity.apple.com
+DOMAIN,idmsa.apple.com
+DOMAIN,albert.apple.com
+DOMAIN,captive.apple.com
+DOMAIN,guzzoni.apple.com
+IP-CIDR,17.0.0.0/8,no-resolve

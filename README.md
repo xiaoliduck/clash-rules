@@ -11,6 +11,7 @@ https://cdn.jsdelivr.net/gh/xiaoliduck/clash-rules@main/rule/Surge/OpenAI/OpenAI
 https://cdn.jsdelivr.net/gh/xiaoliduck/clash-rules@main/rule/Surge/Claude/Claude.list
 https://cdn.jsdelivr.net/gh/xiaoliduck/clash-rules@main/rule/Surge/Gemini/Gemini.list
 https://cdn.jsdelivr.net/gh/xiaoliduck/clash-rules@main/rule/Surge/Apple/Apple.list
+https://cdn.jsdelivr.net/gh/xiaoliduck/clash-rules@main/rule/Surge/ApplePush/ApplePush.list
 https://cdn.jsdelivr.net/gh/xiaoliduck/clash-rules@main/rule/Surge/Google/Google.list
 https://cdn.jsdelivr.net/gh/xiaoliduck/clash-rules@main/rule/Surge/AI/AI.list
 ```
