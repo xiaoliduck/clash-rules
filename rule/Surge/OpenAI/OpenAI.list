@@ -8,6 +8,9 @@
 # IP-ASN: 1
 # IP-CIDR: 2
 # TOTAL: 35
+# Additional ChatGPT integration and related web/API resources
+DOMAIN,cdn.openaimerge.com
+DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openai-api.arkoselabs.com
