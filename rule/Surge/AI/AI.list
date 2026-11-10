@@ -10,6 +10,7 @@ DOMAIN-KEYWORD,grok
 # X / Twitter（包括页面、图片、视频和 API）
 DOMAIN,api.x.com
 DOMAIN,api.twitter.com
+DOMAIN,api-stream.twitter.com
 DOMAIN,abs.twimg.com
 DOMAIN,pbs.twimg.com
 DOMAIN,video.twimg.com
