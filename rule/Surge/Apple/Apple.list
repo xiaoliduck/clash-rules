@@ -10,6 +10,18 @@
 # PROCESS-NAME: 13
 # USER-AGENT: 23
 # TOTAL: 1616
+# iCloud Private Relay
+DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+
+# Community-reported supporting hosts; verify in Shadowrocket logs
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,seed.siri.apple.com
+DOMAIN,api-siri-prod.apple.com
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,apple.com.edgekey.net
